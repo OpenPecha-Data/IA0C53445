@@ -1,0 +1,59 @@
+id: 0537a612ab334f3b9fb19b4e582f5234
+annotation_type: index
+revision: '00001'
+annotations:
+  f0946de00b8542919fe71c7dbe1c21aa:
+    base: 6833.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 5
+    - title: Preface
+      span:
+        start: 6
+        end: 52
+    - title: 'Chapter 1: Bodhicittānuśaṃsaḥ'
+      span:
+        start: 53
+        end: 1045
+    - title: 'Chapter 2: Pāpadeśanā'
+      span:
+        start: 1046
+        end: 1527
+    - title: 'Chapter 3: Bodhicittaparigraho'
+      span:
+        start: 1528
+        end: 1562
+    - title: 'Chapter 4: Bodhicittāpramādo'
+      span:
+        start: 1563
+        end: 1612
+    - title: 'Chapter 5: Saṃprajanyarakṣaṇaḥ'
+      span:
+        start: 1613
+        end: 4228
+    - title: 'Chapter 6: Kṣāntipāramitā'
+      span:
+        start: 4229
+        end: 7500
+    - title: 'Chapter 7: Vīryapāramitā'
+      span:
+        start: 7501
+        end: 9461
+    - title: 'Chapter 8: Dhyānapāramitā'
+      span:
+        start: 9462
+        end: 13929
+    - title: 'Chapter 9: Prajñāpāramitā'
+      span:
+        start: 13930
+        end: 17922
+    - title: 'Chapter 10: Pariṇāmanā'
+      span:
+        start: 17923
+        end: 19416
+    - title: Colophon
+      span:
+        start: 19417
+        end: 19425
